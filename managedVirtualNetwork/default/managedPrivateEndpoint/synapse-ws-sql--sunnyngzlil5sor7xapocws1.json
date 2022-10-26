@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--sunnyngzlil5sor7xapocws1",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/190d1fbf-3499-497c-8674-5d01a0b7e5bc/resourceGroups/sunnydataverserg/providers/Microsoft.Synapse/workspaces/sunnyngzlil5sor7xapocws1",
+		"groupId": "sql",
+		"fqdns": [
+			"sunnyngzlil5sor7xapocws1.596abcd0-89d1-41ec-afe8-aa6a0f9b302c.sql.azuresynapse.net"
+		]
+	}
+}
